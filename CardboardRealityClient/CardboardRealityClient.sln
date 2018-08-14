@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardRealityClient", "CardboardRealityClient.csproj", "{C8CAE566-E106-47DD-A247-C1229A304A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CAE566-E106-47DD-A247-C1229A304A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CAE566-E106-47DD-A247-C1229A304A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CAE566-E106-47DD-A247-C1229A304A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CAE566-E106-47DD-A247-C1229A304A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4001FF44-B35A-417A-8184-2E1DC2C3200B}
+	EndGlobalSection
+EndGlobal
